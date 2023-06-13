@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: [https://main--test-helix-franlin--robbertbd.hlx.page/](https://main--test-helix-franlin--robbertbd.hlx.page/)
+- Live: [https://main--test-helix-franlin--robbertbd.hlx.live/](https://main--test-helix-franlin--robbertbd.hlx.live/)
 
 ## Installation
 
